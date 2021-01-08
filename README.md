@@ -7,7 +7,7 @@ Vielleicht hast du schon von [WordTeX](https://www.andrew.cmu.edu/user/twildenh/
 Wie du diese Vorlage installieren und effizient nutzen kannst, erfährst du im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki). Bei Fehlern darfst du gerne ein GitHub-Issue aufmachen.
 
 |:warning: | Bitte beachte, dass dieses Projekt zurzeit noch experimentell ist.|
-|-----------------------------------------|
+|----------|-------------------------------|
 
 ## Was ist WordTeX?
 Vom Original-Autor Tom Wildenhain aus seinem [sehr lesenwerten und humorvollen Paper](https://www.andrew.cmu.edu/user/twildenh/wordtex/WordTeXPaper.pdf):
@@ -30,4 +30,4 @@ Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) vo
 Wie alles hat auch diese Vorlage nicht nur Vorteile. Erstens ist Word nicht kostenlos. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind.
 
 | :star2:   | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern. |
-|---------------|:------------------------|
+|---------------|-------------------------|
