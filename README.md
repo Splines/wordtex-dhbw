@@ -4,7 +4,7 @@
 
 Vielleicht hast du schon von [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) gehört, einem Satzsystem, das unter anderem ein Word-Template beinhaltet, welches LaTeX nachahmt. Dieses Projekt basiert auf WordTex und passt das Word-Template für den Studiengang Informatik (AI) an der DHBW in Karlsruhe an, entsprechend [deren Leitlinien](https://www.karlsruhe.dhbw.de/fileadmin/user_upload/documents/content-de/Studiengaenge-Technik/Sicherheitswesen/Leitlinien_Bearbeitung_und_Dokumentation.pdf). Du erhälst hiermit also eine **Word-Vorlage für die Projektarbeiten bzw. deine Bachelorarbeit**. 
 
-Wie du diese Vorlage installieren und effizient nutzen kannst, erfährst du im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki). Bei Fehlern darfst du gerne ein GitHub-Issue aufmachen. Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern 🌟
+Wie du diese Vorlage installieren und effizient nutzen kannst, erfährst du im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki). Bei Fehlern darfst du gerne ein GitHub-Issue aufmachen.
 
 |:warning:  Bitte beachte, dass dieses Projekt zurzeit noch experimentell ist.|
 |-----------------------------------------|
@@ -28,3 +28,6 @@ Nur sind die Kosten dafür auch sehr hoch. Wenn ich an einer Arbeit schreibe, m�
 Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) von Tom Wildenhains Projekt [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) erfahren - einem WYSIPCTWOTCG-Tool ("What you see is pretty close to what other tools can get"). Word ist eben auch sehr mächtig und mit der konsequenten Anwendung von Formatvorlagen kann man ebenso eine einheitliche und professionell aussehende Arbeit schreiben. Da ich Word schon seit der 5. Klasse einsetze und damit sehr vertraut bin, fällt mir das Erstellen der Arbeiten deutlich leichter. Nun sehe ich auch sofort, was ich am Dokument geändert habe, ohne zuerst compilen zu müssen.
 
 Wie alles hat auch diese Vorlage nicht nur Vorteile. Erstens ist Word nicht kostenlos. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind.
+
+| :point_up:    | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern 🌟 |
+|---------------|:------------------------|
