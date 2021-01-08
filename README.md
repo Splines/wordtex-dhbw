@@ -29,5 +29,5 @@ Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) vo
 
 Wie alles hat auch diese Vorlage nicht nur Vorteile. Erstens ist Word nicht kostenlos. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind.
 
-| :point_up:    | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern 🌟 |
+| :star2:   | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern. |
 |---------------|:------------------------|
