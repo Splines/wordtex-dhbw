@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/images/WordTeX-Logo.svg"><br><br>
+</div>
+
+---
+
 # WordTeX meets DHBW Karlsruhe ❤
 Vielleicht hast du schon von [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) gehört, einem Typesetting-System, das unter anderem ein Word-Template beinhaltet, welches LaTeX nachahmt. Dieses Projekt basiert auf WordTex und passt das Word-Template für den Studiengang Informatik (AI) an der DHBW in Karlsruhe an, entsprechend [deren Leitlinien](https://www.karlsruhe.dhbw.de/fileadmin/user_upload/documents/content-de/Studiengaenge-Technik/Sicherheitswesen/Leitlinien_Bearbeitung_und_Dokumentation.pdf). Du erhälst hiermit also eine **Word-Vorlage für die Projektarbeiten bzw. deine Bachelorarbeit**. 
 
