@@ -7,7 +7,7 @@ Vielleicht hast du schon von [WordTeX](https://www.andrew.cmu.edu/user/twildenh/
 | :point_up:    | **Wie du diese Vorlage installieren und effizient nutzen kannst, erfährst du im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki).** Bei Fehlern darfst du gerne ein GitHub-Issue aufmachen. |
 |---------------|:------------------------|
 
-|:warning: | Bitte beachte, dass dieses Projekt zurzeit noch experimentell ist. Feedback gerne erwünscht. |
+|:warning: | Bitte beachte, dass diese Vorlage erst im Januar 2021 entstand und zurzeit noch in der Testphase ist (bei meiner eigenen Praxisarbeit). Feedback gerne erwünscht. |
 |----------|:-------------------------------|
 
 ## Was ist WordTeX?
