@@ -26,7 +26,7 @@ Meine erste Projektarbeit an der DHBW habe ich mit LaTeX geschrieben. Vom Ergebn
 
 Nur sind die Kosten dafür auch sehr hoch. Wenn ich an einer Arbeit schreibe, möchte ich mich auf den Inhalt fokussieren. Stattdessen musste ich ständig auf diversen StackExchange-Portalen nach kryptischen Commands für die einfachsten Dinge suchen und mich mit nichtssagenden Compiler-Fehlermeldungen rumschlagen. Eigene Anpassungen vorzunehmen ist teils extrem schwierig und man muss sich in die Dokumentationen von verschiedenen Packages einlesen und die entsprechenden Commands herausfinden. Ich bin zwar Entwickler und verwende auch die Konsole, aber beim Schreiben einer wissenschaftlichen Arbeit wünsche ich mir dann doch etwas mehr Komfort und ein WYSIWYG-Tool.
 
-Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) von Tom Wildenhains Projekt [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) erfahren - einem WYSIPCTWOTCG-Tool ("What you see is pretty close to what other tools can get"). Word ist eben auch sehr mächtig und mit der konsequenten Anwendung von Formatvorlagen kann man ebenso eine einheitliche und professionell aussehende Arbeit schreiben. Da ich Word schon seit der 5. Klasse einsetze und damit sehr vertraut bin, fällt mir nun das Erstellen der Arbeiten deutlich leichter.
+Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) von Tom Wildenhains Projekt [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) erfahren - einem WYSIPCTWOTCG-Tool ("What you see is pretty close to what other tools can get"). Word ist eben auch sehr mächtig und mit der konsequenten Anwendung von Formatvorlagen kann man ebenso eine einheitliche und professionell aussehende Arbeit schreiben.
 
 <table>
   <thead>
