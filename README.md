@@ -28,16 +28,31 @@ Nur sind die Kosten dafür auch sehr hoch. Wenn ich an einer Arbeit schreibe, m�
 
 Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) von Tom Wildenhains Projekt [WordTeX](https://www.andrew.cmu.edu/user/twildenh/wordtex/) erfahren - einem WYSIPCTWOTCG-Tool ("What you see is pretty close to what other tools can get"). Word ist eben auch sehr mächtig und mit der konsequenten Anwendung von Formatvorlagen kann man ebenso eine einheitliche und professionell aussehende Arbeit schreiben. Da ich Word schon seit der 5. Klasse einsetze und damit sehr vertraut bin, fällt mir nun das Erstellen der Arbeiten deutlich leichter.
 
-Um nur einige Vorteile zu nennen:
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :heavy_check_mark: Um nur einige Vorteile zu nennen
+      </td>
+    </tr>
+  </thead>
 
-- Live-Bearbeitung des Dokuments, ohne compilen zu müssen (WYSIWYG)
-- Live-Formeleditor, der LaTeX-Syntax unterstützt
-- Fortgeschrittene Rechtschreibprüfung für viele Sprachen
-- All-in-one Lösung: keine zusätzlichen Packages notwendig
-- Kinderleichtes Einfügen von Bildern
-- Word vielfach schon vorinstalliert, allseits bekannte Software, d.h. deutlich flachere Lernkurve im Vergleich zu LaTeX
-- Einfache Integration mit Citavi möglich, ohne umständliche bibtex/biber-Dateien
-
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Live-Bearbeitung des Dokuments, ohne compilen zu müssen (WYSIWYG)</li>
+          <li>Live-Formeleditor, der LaTeX-Syntax unterstützt</li>
+          <li>Fortgeschrittene Rechtschreibprüfung für viele Sprachen</li>
+          <li>All-in-one Lösung: keine zusätzlichen Packages notwendig</li>
+          <li>Kinderleichtes Einfügen von Bildern</li>
+          <li>Word vielfach schon vorinstalliert, allseits bekannte Software, d.h. deutlich flachere Lernkurve im Vergleich zu LaTeX</li>
+          <li>Einfache Integration mit Citavi möglich, ohne umständliche bibtex/biber-Dateien</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Aber wie alles andere auch hat auch diese Vorlage nicht nur Vorteile. Erstens - und das ist auch schon der größte Nachteil - ist Word nicht kostenlos und zudem closed-source. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind.
 
