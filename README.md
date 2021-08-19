@@ -7,8 +7,11 @@ Vielleicht hast du schon von [WordTeX](https://www.andrew.cmu.edu/user/twildenh/
 | :point_up:    | **Wie du diese Vorlage installieren und effizient nutzen kannst, erfährst du im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki).** Bei Fehlern darfst du gerne ein GitHub-Issue aufmachen. |
 |---------------|:------------------------|
 
-|:warning: | Bitte beachte, dass diese Vorlage erst im Januar 2021 entstand und zurzeit noch in der Testphase ist (bei meiner eigenen Praxisarbeit). Feedback gerne erwünscht. |
+|:warning: | Ich selbst nutze diese Vorlage seit Januar 2021, übernehme jedoch keine Garantie für die Richtigkeit [gemäß der Leitlinien der DHBW](https://www.karlsruhe.dhbw.de/fileadmin/user_upload/documents/content-de/Studiengaenge-Technik/Sicherheitswesen/Leitlinien_Bearbeitung_und_Dokumentation.pdf). Falls du Probleme mit der Vorlage haben solltest, schau erstmal im [Wiki](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki) nach. Ansonsten darfst du auch gerne in den [Issues](https://github.com/Splines/wordtex-dhbw/issues) Fehler bemängeln oder Vorschläge machen. |
 |----------|:-------------------------------|
+
+| :star2:   | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern. |
+|---------------|:-------------------------|
 
 ## Was ist WordTeX?
 Vom Original-Autor Tom Wildenhain aus seinem [sehr lesenwerten und humorvollen Paper](https://www.andrew.cmu.edu/user/twildenh/wordtex/WordTeXPaper.pdf):
@@ -48,14 +51,11 @@ Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) vo
           <li>Kinderleichtes Einfügen von Bildern</li>
           <li>Word vielfach schon vorinstalliert, allseits bekannte Software,<br>
             d.h. deutlich flachere Lernkurve im Vergleich zu LaTeX</li>
-          <li>Einfache Integration mit Citavi möglich, ohne umständliche bibtex/biber-Dateien</li>
+          <li>Einfache Integration mit Citavi möglich (über deren [Plugin](https://www1.citavi.com/sub/manual6/de/index.html?wai_word_add-in_installing_uninstalling.html), ohne umständliche bibtex/biber-Dateien</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-Aber wie alles andere auch hat auch diese Vorlage nicht nur Vorteile. Erstens - und das ist auch schon der größte Nachteil - ist Word nicht kostenlos und zudem closed-source. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind.
-
-| :star2:   | Dir hat das Projekt geholfen? Dann freue ich mich über einen Stern. |
-|---------------|:-------------------------|
+Aber wie alles andere auch hat auch diese Vorlage nicht nur Vorteile. Erstens - und das ist auch schon der größte Nachteil - ist Word nicht kostenlos und zudem closed-source. Zweitens konnte ich mehr als 90%, aber eben doch nicht alle Features aus dem LaTeX-Template genau so in Word umsetzen, sodass es noch ein paar [Limitierungen](https://github.com/Ordinateur-Hack/wordtex-dhbw/wiki/limitierungen) gibt, die allerdings nicht einschneidend sind. Word hat einige Vorteile gegenüber LaTeX, umgekehrt ist dies allerdings auch der Fall. Entscheide du selbst, was du nutzen willst. Am Ende kommt es nur darauf an, mit was du dich wohler fühlst — unabhängig davon, was die anderen sagen (außer dein Professor zwingt dich 😅).
