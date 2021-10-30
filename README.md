@@ -51,7 +51,7 @@ Glücklicherweise habe ich durch [dieses Video](https://youtu.be/jlX_pThh7z8) vo
           <li>Kinderleichtes Einfügen von Bildern</li>
           <li>Word vielfach schon vorinstalliert, allseits bekannte Software,<br>
             d.h. deutlich flachere Lernkurve im Vergleich zu LaTeX</li>
-          <li>Einfache Integration mit Citavi möglich (über deren [Plugin](https://www1.citavi.com/sub/manual6/de/index.html?wai_word_add-in_installing_uninstalling.html), ohne umständliche bibtex/biber-Dateien</li>
+          <li>Einfache Integration mit Citavi möglich (über deren <a href="https://www1.citavi.com/sub/manual6/de/index.html?wai_word_add-in_installing_uninstalling.html">Plugin</a> ohne bibtex/biber-Dateien)</li>
         </ul>
       </td>
     </tr>
